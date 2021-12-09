@@ -1,2 +1,1 @@
-# ibda
-ibda.com.tr
+# Organization website  -  PHP Laravel Framework
