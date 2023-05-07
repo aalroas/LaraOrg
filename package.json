@@ -26,7 +26,7 @@
         "cross-var": "^1.1.0",
         "emoji-mart-vue": "^2.6.6",
         "gsap": "^3.0.1",
-        "jest": "^24.8.0",
+        "jest": "^29.5.0",
         "jquery": "^3.4.1",
         "laravel-mix": "^5.0.0",
         "laravel-mix-purgecss": "^4.2.0",
