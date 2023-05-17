@@ -1,1 +1,1 @@
-# Organization Laravel App  -  PHP Laravel Framework
+Laravel App for Organization and Charity - PHP Laravel Framework
